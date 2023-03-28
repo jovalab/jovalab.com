@@ -6,11 +6,10 @@ export default function PageHomeServices() {
       <div className="flex px-14 h-[120vh] bg-white w-full justify-center items-center flex-col">
         <div className="flex justify-center text-center items-center flex-col w-[55%]">
           <span className="text-[40px] font-semibold text-black">
-            A cloud for your entire journey
+            Lorem Ipsum is simply 
           </span>
           <span className="text-base mt-4 text-gray-500">
-            DigitalOcean’s suite of products is designed to be with you on every
-            step of your journey, whether you want to do it yourself or get help
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. er you want to do it yourself or get help
             from the experts.
           </span>
           <button className="mt-4 text-[#F5A8BC] bg-white border-[#F5A8BC] hover:bg-[#F5A8BC] hover:text-white border border-solid outline-none cursor-pointer w-[180px] py-2 flex justify-center items-center flex-row">
@@ -19,6 +18,8 @@ export default function PageHomeServices() {
           </button>
         </div>
         <div className="grid grid-cols-3 gap-6 mt-16">
+          <CommonCardProduct />
+          <CommonCardProduct />
           <CommonCardProduct />
           <CommonCardProduct />
           <CommonCardProduct />

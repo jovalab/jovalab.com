@@ -5,8 +5,7 @@ export default function PageHomeBanner() {
         <div className="flex justify-center items-center flex-col w-full min-h-[88vh]">
           <div className="grid grid-cols-3 w-full">
             <span className="col-span-2 font-[500] text-black text-[5.6vw]">
-              State-of-the-art and sustainable technology is involved in the
-              making.™
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has.™
             </span>
           </div>
         </div>

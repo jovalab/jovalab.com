@@ -9,8 +9,8 @@ export default function Index() {
     <LayoutContainer>
       <PageHomeBanner />
       <PageHomeIntroduction />
-      <PageHomeProjects />
       <PageHomeServices />
+      <PageHomeProjects />
     </LayoutContainer>
   );
 }
